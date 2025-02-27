@@ -13,7 +13,7 @@ Batch: 2604 [Purwadhika Digital Technology School](https://www.purwadhika.com/)
 ---
 
 ## Overview
-Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan model Machine Learning, kita dapat memprediksi pelanggan yang berisiko churn dan mengambil tindakan strategis untuk meningkatkan retensi pelanggan. Proyek ini bertujuan untuk membangun model prediksi churn yang akurat menggunakan algoritma Machine Learning.
+Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan melakukan analisis mendalam dan membangun model Machine Learning, kita dapat mengidentifikasi penyebab utama churn, memprediksi pelanggan yang berisiko churn, serta mengambil tindakan strategis untuk meningkatkan retensi pelanggan. Proyek ini bertujuan untuk menganalisis data dan membangun model prediksi churn yang akurat menggunakan algoritma Machine Learning.
 
 ---
 
@@ -40,7 +40,7 @@ Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan model
 
 ## Business Understanding
 ### Context
-Customer churn adalah fenomena di mana pelanggan meninggalkan layanan. Studi menunjukkan bahwa **pengurangan churn sebesar 5% dapat meningkatkan profit hingga 95%**. Oleh karena itu, memprediksi churn dapat membantu perusahaan mengalokasikan sumber daya lebih efisien.
+Customer churn adalah fenomena di mana pelanggan berhenti menggunakan layanan. Studi menunjukkan bahwa **mengurangi churn sebesar 5% dapat meningkatkan profit hingga 95%**. Oleh karena itu, memahami faktor penyebab churn dan memprediksi pelanggan yang berisiko churn dapat membantu perusahaan mengalokasikan sumber daya dengan lebih efisien.
 
 ### Business Goals
 - Mengidentifikasi faktor utama yang mempengaruhi churn.
