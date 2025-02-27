@@ -1,6 +1,16 @@
 # DeltaGroup_JC_DS_FT_JKT_26_FinalProject
 
 # E-Commerce Customer Churn Prediction 
+---
+
+**Delta Group JCDS2604 Purwadhika**
+- [Nur Faaizah Faradhilah Ridwan](https://www.linkedin.com/in/nur-faaizah-faradhilah-ridwan/) JCDS-2604-007
+- [Farhan Sandika Sumarna](https://www.linkedin.com/in/farhansandika/) JCDS-2604-015
+- [Rina Adibah](https://www.linkedin.com/in/rina-adibah/) JCDS-2604-019
+
+Batch: 2604 [Purwadhika Digital Technology School](https://www.purwadhika.com/)
+
+---
 
 ## Overview
 Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan model Machine Learning, kita dapat memprediksi pelanggan yang berisiko churn dan mengambil tindakan strategis untuk meningkatkan retensi pelanggan. Proyek ini bertujuan untuk membangun model prediksi churn yang akurat menggunakan algoritma Machine Learning.
