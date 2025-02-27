@@ -35,7 +35,7 @@ Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan melak
 - [Software Requirements](#software-requirements)
 - [Dependencies & Libraries Used](#dependencies---libraries-sed)
 - [Final Thoughts](#final-thoughts)
-- [Note](#note)
+- [Tableau Dashboard](#tableau-dashboard)
 
 ---
 
@@ -244,7 +244,7 @@ Proyek ini membuktikan bahwa **Machine Learning dapat digunakan untuk memprediks
 
 ---
 
-## Note
+## Tableau Dashboard
 [Customer Churn Dashboard](https://public.tableau.com/app/profile/farhan.s.sumarna/viz/CustomerChurnDashboard-Delta/CustomerBehaviorDashboard)
 
 Tableau Dashboard ini menyediakan visualisasi komprehensif tentang pola churn pelanggan, membantu bisnis menganalisis faktor-faktor utama yang mempengaruhi churn, termasuk segmentasi pelanggan dan demografi, perilaku pelanggan, kepuasan pelanggan, serta interaksi perangkat lunak, yang mencakup perangkat apa yang paling sering digunakan pelanggan dalam e-commerce ini.
