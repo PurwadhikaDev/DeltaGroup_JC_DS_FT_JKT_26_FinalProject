@@ -23,6 +23,7 @@ Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan model
 - [Data Understanding](#data-understanding)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preprocessing](#data-preprocessing)
+- [Data Analysis](#data-analysis)
 - [Feature Engineering](#feature-engineering)
 - [Model Benchmarking & Optimization](#model-benchmarking--optimization)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -73,6 +74,15 @@ Customer churn adalah fenomena di mana pelanggan meninggalkan layanan. Studi men
 - **Handling Outliers:** RobustScaler untuk normalisasi data.
 - **Encoding:** Label Encoding & One-Hot Encoding.
 - **Balancing Data:** SMOTE, ADASYN, Random Oversampling.
+
+---
+
+## Data Analysis
+- **Customer Segmentation Identification:** Berdasarkan `Tenure` dan `Churn`
+- **Customer Demographic Analysis:** Berdasarkan `Gender`, `City Tier`, `Marital Status`, `Number of Address`, dan `Warehouse to Home`
+- **Purchase Behaviour Analysis:**  Berdasarkan `Preferred Order Category`, `Preferred Payment Mode`, `Coupon Used`, `Cashback Amount`, dan kolom lainnya
+- **Interaction with the Application:** Berdasarkan `Preferred Log In Device`, `Hour Spend on App`, dan `Number of Device Registered`
+- **Customer Satisfaction:** Berdasarkan `Complain` dan `Satisfaction Score`
 
 ---
 
@@ -128,6 +138,7 @@ Customer churn adalah fenomena di mana pelanggan meninggalkan layanan. Studi men
 
 ## Conclusion & Recommendations
 ### Business Impact
+- Preferensi Kategori Pembelian, Jumlah Cashback yang Diterima Pelanggan, Komplain, dan Nilai Kepuasan menjadi faktor yang mempengaruhi churn pelanggan.
 - Tanpa Machine Learning, perusahaan mengalami kerugian ₹45.2 juta per bulan akibat churn.
 - Dengan Machine Learning, total kerugian turun menjadi hanya ₹178.5 ribu per bulan.
 - Penghematan biaya mencapai ₹45 juta per bulan.
