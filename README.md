@@ -31,6 +31,10 @@ Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan model
 - [Model Interpretation](#model-interpretation)
 - [Deployment](#deployment)
 - [Conclusion & Recommendations](#conclusion--recommendations)
+- [Limitations of the Project](#limitations-of-the-project)
+- [Software Requirements](#software-requirements)
+- [Dependencies & Libraries Used](#dependencies---libraries-sed)
+- [Final Thoughts](#final-thoughts)
 
 ---
 
