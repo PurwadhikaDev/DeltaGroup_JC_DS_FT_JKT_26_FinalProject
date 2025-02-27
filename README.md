@@ -241,7 +241,11 @@ Proyek ini menggunakan berbagai library Python untuk manipulasi data, analisis s
 ## Final Thoughts
 Proyek ini membuktikan bahwa **Machine Learning dapat digunakan untuk memprediksi churn dengan akurasi tinggi dan memberikan dampak bisnis yang signifikan**. Dengan model yang telah dikembangkan, perusahaan dapat menghemat biaya promosi yang tidak efisien, meningkatkan loyalitas pelanggan, serta meningkatkan profitabilitas bisnis.
 
+---
 
+## Note
+[Customer Churn Dashboard](https://public.tableau.com/app/profile/farhan.s.sumarna/viz/CustomerChurnDashboard-Delta/CustomerBehaviorDashboard)
+Dasbor interaktif Tableau ini menyediakan visualisasi komprehensif tentang pola churn pelanggan, membantu bisnis menganalisis faktor-faktor utama yang mempengaruhi churn, termasuk segmentasi pelanggan dan demografi, perilaku pelanggan, kepuasan pelanggan, serta interaksi perangkat lunak, yang mencakup perangkat apa yang paling sering digunakan pelanggan dalam e-commerce.
 
 
 
