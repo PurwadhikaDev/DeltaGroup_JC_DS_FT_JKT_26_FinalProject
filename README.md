@@ -35,6 +35,7 @@ Customer churn merupakan tantangan besar dalam industri e-commerce. Dengan melak
 - [Software Requirements](#software-requirements)
 - [Dependencies & Libraries Used](#dependencies---libraries-sed)
 - [Final Thoughts](#final-thoughts)
+- [Note](#note)
 
 ---
 
