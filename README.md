@@ -246,7 +246,7 @@ Proyek ini membuktikan bahwa **Machine Learning dapat digunakan untuk memprediks
 ## Note
 [Customer Churn Dashboard](https://public.tableau.com/app/profile/farhan.s.sumarna/viz/CustomerChurnDashboard-Delta/CustomerBehaviorDashboard)
 
-Dasbor interaktif Tableau ini menyediakan visualisasi komprehensif tentang pola churn pelanggan, membantu bisnis menganalisis faktor-faktor utama yang mempengaruhi churn, termasuk segmentasi pelanggan dan demografi, perilaku pelanggan, kepuasan pelanggan, serta interaksi perangkat lunak, yang mencakup perangkat apa yang paling sering digunakan pelanggan dalam e-commerce.
+Dasbor interaktif Tableau ini menyediakan visualisasi komprehensif tentang pola churn pelanggan, membantu bisnis menganalisis faktor-faktor utama yang mempengaruhi churn, termasuk segmentasi pelanggan dan demografi, perilaku pelanggan, kepuasan pelanggan, serta interaksi perangkat lunak, yang mencakup perangkat apa yang paling sering digunakan pelanggan dalam e-commerce ini.
 
 
 
